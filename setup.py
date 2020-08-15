@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="applied_maths-adi10hero",
-    version="0.0.1",
+    version="0.0.2",
     author="Aditya Srivastava",
     author_email="adityasrivastava301199@gmail.com",
     description="Calculates Higher Order Crossings of a signal",
